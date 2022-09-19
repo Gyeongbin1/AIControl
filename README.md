@@ -61,7 +61,8 @@
  - 낚시도 시간날 때 가끔 하러 가기도 합니다.
  - 볼링도 잘하지는 못하지만 좋아합니다.
 
-<img src="https://user-images.githubusercontent.com/112041555/190939307-bf095a9d-9d66-40a8-a5e6-aa15643643f0.png" width="300px" height="250px"></img> 5월에 제가 화이트 벨트에서 **블루 벨트**로 승급한 사진입니다.
+<img src="https://user-images.githubusercontent.com/112041555/190939307-bf095a9d-9d66-40a8-a5e6-aa15643643f0.png" width="300px" height="250px"></img>
+5월에 제가 화이트 벨트에서 **블루 벨트**로 승급한 사진입니다.
 <img src="https://user-images.githubusercontent.com/112041555/190938190-bfe5ded4-c301-43dc-9631-52a894191a44.png" width="300px" height="250px"></img>
 이 사진은 제가 최근에 주짓수 대회에 나가서 찍은사진입니다.(광탈)
 <img src="https://user-images.githubusercontent.com/112041555/190939232-16029870-baa4-4ffd-9829-687e4763e8df.png" width="300px" height="250px"></img>
