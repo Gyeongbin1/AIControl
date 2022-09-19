@@ -57,7 +57,7 @@
  - 운동(헬스, 주짓수)을 좋아합니다. 주 5일이상은 운동을 하고 있습니다.
  - 낚시도 시간날 때 가끔 하러 가기도 합니다.
  - 볼링도 잘하지는 못하지만 좋아합니다.
-![image](https://user-images.githubusercontent.com/112041555/190938190-bfe5ded4-c301-43dc-9631-52a894191a44.png)<img width="450px" height="350px"></img>
+<img src="https://user-images.githubusercontent.com/112041555/190938190-bfe5ded4-c301-43dc-9631-52a894191a44.png" width="450px" height="350px"></img>
 
 ## 목표
  - 저는 학교 졸업 전에 조기취업을 하고싶습니다. 그래서 1학년 2학기때 위험물 산업기사를 취득후 2학년때 기계정비산업기사 or 생산자동화산업기사, 산업안전산업기사 를 취득후
