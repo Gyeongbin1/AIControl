@@ -36,7 +36,7 @@
 - 형은 현대로템에서 일을 하고 있습니다.
 - 강아지 종은 믹스견입니다.
 
-<img src="https://user-images.githubusercontent.com/112041555/190939440-c5b5bb61-57fe-4579-8394-078fc8bee9a6.png" width="200px" height="150px"></img>
+<img src="https://user-images.githubusercontent.com/112041555/190939440-c5b5bb61-57fe-4579-8394-078fc8bee9a6.png" width="250px" height="150px"></img>
 저희집 강아지입니다 (귀엽죠?)
 
 ## 학 력
@@ -61,8 +61,7 @@
  - 낚시도 시간날 때 가끔 하러 가기도 합니다.
  - 볼링도 잘하지는 못하지만 좋아합니다.
 
-<img src="https://user-images.githubusercontent.com/112041555/190939307-bf095a9d-9d66-40a8-a5e6-aa15643643f0.png" width="300px" height="250px"></img>
-5월에 제가 화이트 벨트에서 **블루 벨트**로 승급한 사진입니다.
+<img src="https://user-images.githubusercontent.com/112041555/190939307-bf095a9d-9d66-40a8-a5e6-aa15643643f0.png" width="300px" height="250px"></img> 5월에 제가 화이트 벨트에서 **블루 벨트**로 승급한 사진입니다.
 <img src="https://user-images.githubusercontent.com/112041555/190938190-bfe5ded4-c301-43dc-9631-52a894191a44.png" width="300px" height="250px"></img>
 이 사진은 제가 최근에 주짓수 대회에 나가서 찍은사진입니다.(광탈)
 <img src="https://user-images.githubusercontent.com/112041555/190939232-16029870-baa4-4ffd-9829-687e4763e8df.png" width="300px" height="250px"></img>
